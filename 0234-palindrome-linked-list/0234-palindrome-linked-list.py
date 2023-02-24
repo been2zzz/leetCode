@@ -8,13 +8,13 @@ class Solution:
         if head is None:
             return True
         
-        q = []
+        q = collections.deque()
         node = head
         while node is not None:
             q.append(node.val)
             node = node.next
         
         while len(q) > 1:
-            if q.pop(0) != q.pop():
+            if q.popleft() != q.pop():
                 return False
         return True
