@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/devGo20/leetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -25,4 +26,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
