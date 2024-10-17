@@ -15,9 +15,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
 | [0739-daily-temperatures](https://github.com/devGo20/leetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/devGo20/leetCode/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
