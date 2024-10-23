@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devGo20/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/devGo20/leetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/devGo20/leetCode/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/devGo20/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/devGo20/leetCode/tree/master/0871-keys-and-rooms) |
 ## Math
 |  |
@@ -87,4 +90,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devGo20/leetCode/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
