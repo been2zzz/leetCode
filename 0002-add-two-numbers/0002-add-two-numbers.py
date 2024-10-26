@@ -5,24 +5,24 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        # 전가산기 구현 (CPU)
-        root = head = ListNode(0)        
+        current = l1
         
-        carry = 0
-        while l1 or l2 or carry:
-            sum = 0
-            if l1:
-                sum += l1.val
-                l1 = l1.next
-            if l2:
-                sum += l2.val
-                l2 = l2.next
+        def spread_list(list):
+            current = list
+            answer = []
+            while current:
+                answer.append(current.val)
+                current = current.next
+            answer.reverse()
+            return "".join(map(str, answer))
             
-            carry, val = divmod(sum + carry, 10)
-            head.next = ListNode(val)
-            head = head.next
-            
-        return root.next
+        l1_num = int(spread_list(l1))
+        l2_num = int(spread_list(l2))
+        answer: ListNode = None
         
-    
-        
+        for i in str(l1_num+l2_num):
+            node = ListNode(int(i))
+            node.next = answer
+            answer = node
+
+        return answer
