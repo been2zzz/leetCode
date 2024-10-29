@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devGo20/leetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/devGo20/leetCode/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
@@ -111,4 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/devGo20/leetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/devGo20/leetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
