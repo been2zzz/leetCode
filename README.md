@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/devGo20/leetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/devGo20/leetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/devGo20/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/devGo20/leetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/devGo20/leetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/devGo20/leetCode/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -118,9 +120,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devGo20/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devGo20/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
