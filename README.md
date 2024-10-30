@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/devGo20/leetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/devGo20/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devGo20/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/devGo20/leetCode/tree/master/0782-jewels-and-stones) |
 ## Union Find
 |  |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
@@ -135,4 +138,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devGo20/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
