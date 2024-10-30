@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devGo20/leetCode/tree/master/0020-valid-parentheses) |
+| [0782-jewels-and-stones](https://github.com/devGo20/leetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0782-jewels-and-stones](https://github.com/devGo20/leetCode/tree/master/0782-jewels-and-stones) |
 ## Union Find
 |  |
 | ------- |
