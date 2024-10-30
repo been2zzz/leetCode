@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devGo20/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/devGo20/leetCode/tree/master/0020-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/devGo20/leetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devGo20/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0782-jewels-and-stones](https://github.com/devGo20/leetCode/tree/master/0782-jewels-and-stones) |
 ## Union Find
@@ -129,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devGo20/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devGo20/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
