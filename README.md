@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/devGo20/leetCode/tree/master/0046-permutations) |
 | [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -164,4 +165,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devGo20/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/devGo20/leetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
