@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/devGo20/leetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/devGo20/leetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/devGo20/leetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/devGo20/leetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/devGo20/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/devGo20/leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -169,4 +170,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/devGo20/leetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/devGo20/leetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/devGo20/leetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/devGo20/leetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devGo20/leetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
