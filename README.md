@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devGo20/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/devGo20/leetCode/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/devGo20/leetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/devGo20/leetCode/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/devGo20/leetCode/tree/master/0871-keys-and-rooms) |
 ## Math
@@ -175,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/devGo20/leetCode/tree/master/0078-subsets) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/devGo20/leetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
