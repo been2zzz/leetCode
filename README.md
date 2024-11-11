@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/devGo20/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devGo20/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devGo20/leetCode/tree/master/0020-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/devGo20/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0782-jewels-and-stones](https://github.com/devGo20/leetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/devGo20/leetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devGo20/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/devGo20/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devGo20/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/devGo20/leetCode/tree/master/0687-longest-univalue-path) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devGo20/leetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devGo20/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/devGo20/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/devGo20/leetCode/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devGo20/leetCode/tree/master/0617-merge-two-binary-trees) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/devGo20/leetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devGo20/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/devGo20/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devGo20/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/devGo20/leetCode/tree/master/0687-longest-univalue-path) |
@@ -87,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/devGo20/leetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devGo20/leetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/devGo20/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devGo20/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/devGo20/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -154,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devGo20/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devGo20/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/devGo20/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0860-design-circular-queue](https://github.com/devGo20/leetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
