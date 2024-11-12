@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devGo20/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/devGo20/leetCode/tree/master/0687-longest-univalue-path) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/devGo20/leetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/devGo20/leetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/devGo20/leetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/devGo20/leetCode/tree/master/0871-keys-and-rooms) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/devGo20/leetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/devGo20/leetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devGo20/leetCode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/devGo20/leetCode/tree/master/0687-longest-univalue-path) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/devGo20/leetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,4 +221,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devGo20/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/devGo20/leetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
